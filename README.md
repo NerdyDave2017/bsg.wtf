@@ -126,7 +126,7 @@ Request body (JSON):
 
 ## 11. GitHub issue breakdown
 
-Full engineer-facing descriptions, tasks, and PR success criteria for each row below live in [`docs/issue-descriptions.md`](docs/issue-descriptions.md).
+Work is tracked in **GitHub Issues**. To pick up a task, claim an issue, implement from a fork, and link your pull request as described in **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
 **Reviewers:** Reviewer 1, Reviewer 2, Reviewer 3
 
